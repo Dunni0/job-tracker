@@ -2,7 +2,7 @@
 
 A full-stack Kanban-style job application tracker. Add roles, drag them across stages, and keep your job search organised — all behind a secure authentication layer.
 
-**Live demo → [job-tracker-app](https://job-tracker-app-dunni0s-projects.vercel.app/)**
+**Live demo → [job-tracker-app](https://job-tracker-app-dunni0s-projects.vercel.app)**
 
 ---
 
