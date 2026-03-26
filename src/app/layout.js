@@ -7,6 +7,9 @@ import { Toaster } from "react-hot-toast";
 export const metadata = {
   title: "Job Tracker",
   description: "Track your job applications and progress in one place",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }) {
