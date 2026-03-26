@@ -1,0 +1,17 @@
+{
+  "name": "Job Tracker",
+  "short_name": "Job Tracker",
+  "description": "Track your job applications with a Kanban board",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
