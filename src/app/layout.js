@@ -9,6 +9,7 @@ export const metadata = {
   description: "Track your job applications and progress in one place",
   icons: {
     icon: "/favicon.svg",
+    apple: "/apple-touch-icon.png",
   },
   manifest: "/manifest.json",
 };

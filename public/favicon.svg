@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="8" fill="#111827"/>
-  <rect x="8" y="10" width="16" height="14" rx="2" stroke="white" strokeWidth="1.5"/>
-  <path d="M12 10V8.5A1.5 1.5 0 0113.5 7h5A1.5 1.5 0 0120 8.5V10" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
-  <line x1="16" y1="14" x2="16" y2="19" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
-  <line x1="13.5" y1="16.5" x2="18.5" y2="16.5" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#111827"/>
+  <rect x="100" y="140" width="90" height="220" rx="16" fill="white"/>
+  <rect x="211" y="140" width="90" height="160" rx="16" fill="white" opacity="0.7"/>
+  <rect x="322" y="140" width="90" height="100" rx="16" fill="white" opacity="0.4"/>
 </svg>
