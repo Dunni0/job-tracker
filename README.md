@@ -13,9 +13,35 @@ A full-stack Kanban-style job application tracker. Add roles, drag them across s
 - 🖱️ **Drag and drop** — move cards between columns instantly
 - ✏️ **Full CRUD** — add, edit, and delete job applications
 - 📊 **Live stats** — total applications, interviews, and offers update in real time
-- 📱 **Mobile friendly** — tab-based layout on small screens
+- 📱 **Mobile friendly** — tab-based layout on small screens, installable as a PWA
 - 🔔 **Toast notifications** — instant feedback on every action
 - ⚡ **Optimistic updates** — UI responds immediately, no waiting for the server
+
+---
+
+## Install as an app
+
+Job Tracker works as a Progressive Web App (PWA) — you can save it to your device and use it like a native app, no app store needed.
+
+**On desktop (Chrome / Edge):**
+1. Open the live demo in Chrome or Edge
+2. Look for the install icon (⊕) in the address bar on the right
+3. Click **Install**
+4. The app opens in its own window, separate from your browser
+
+**On Android (Chrome):**
+1. Open the live demo in Chrome
+2. Tap the three-dot menu (⋮) in the top right
+3. Tap **Add to Home screen**
+4. Tap **Add**
+
+**On iOS (Safari):**
+1. Open the live demo in Safari
+2. Tap the share icon (□↑) at the bottom
+3. Tap **Add to Home Screen**
+4. Tap **Add**
+
+Once installed, the app opens full screen with no browser chrome — just like a native app.
 
 ---
 
@@ -78,7 +104,7 @@ job-tracker/
 │   ├── providers/          # Redux, React Query, NextAuth providers
 │   ├── store/              # Redux slices + job service layer
 │   └── middleware.js       # Route protection
-└── public/
+└── public/                 # Icons, manifest, static assets
 ```
 
 ---
